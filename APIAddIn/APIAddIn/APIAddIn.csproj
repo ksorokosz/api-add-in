@@ -32,7 +32,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Interop.EA">
-      <HintPath>C:\Program Files (x86)\Sparx Systems\EA\Interop.EA.dll</HintPath>
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\Sparx Systems\EA Trial\Interop.EA.dll</HintPath>
       <EmbedInteropTypes>True</EmbedInteropTypes>
     </Reference>
     <Reference Include="Newtonsoft.Json">
@@ -43,7 +43,7 @@
     </Reference>
     <Reference Include="SVGExport, Version=1.0.0.6, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\Program Files (x86)\Siemens\EA SVG Export\SVGExport.dll</HintPath>
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\Siemens\EA SVG Export\SVGExport.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />

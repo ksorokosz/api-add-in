@@ -1,0 +1,2 @@
+C:\Users\Kamil\Desktop\api-add-in-master\APIAddIn\UnitTestProject1\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
+C:\Users\Kamil\Desktop\api-add-in-master\APIAddIn\UnitTestProject1\obj\Debug\UnitTestProject.csproj.CoreCompileInputs.cache

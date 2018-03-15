@@ -1,0 +1,8 @@
+C:\Users\Kamil\Desktop\api-add-in-master\APIAddIn\YamlDotNet\bin\Debug\YamlDotNet.xml
+C:\Users\Kamil\Desktop\api-add-in-master\APIAddIn\YamlDotNet\bin\Debug\YamlDotNet.dll
+C:\Users\Kamil\Desktop\api-add-in-master\APIAddIn\YamlDotNet\bin\Debug\YamlDotNet.pdb
+C:\Users\Kamil\Desktop\api-add-in-master\APIAddIn\YamlDotNet\bin\Debug\YamlDotNet.dll.CodeAnalysisLog.xml
+C:\Users\Kamil\Desktop\api-add-in-master\APIAddIn\YamlDotNet\bin\Debug\YamlDotNet.dll.lastcodeanalysissucceeded
+C:\Users\Kamil\Desktop\api-add-in-master\APIAddIn\YamlDotNet\obj\Debug\YamlDotNet.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\Desktop\api-add-in-master\APIAddIn\YamlDotNet\obj\Debug\YamlDotNet.dll
+C:\Users\Kamil\Desktop\api-add-in-master\APIAddIn\YamlDotNet\obj\Debug\YamlDotNet.pdb

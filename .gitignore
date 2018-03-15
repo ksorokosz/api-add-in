@@ -1,6 +1,4 @@
 *.suo
-bin/
-obj/
 target
 *.EAP
 *.msi
