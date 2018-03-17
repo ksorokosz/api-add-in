@@ -1,0 +1,2 @@
+D:\Programowanie\api-add-in\APIAddIn\YamlDotNet\obj\Release-Signed\YamlDotNet.csprojResolveAssemblyReference.cache
+D:\Programowanie\api-add-in\APIAddIn\YamlDotNet\obj\Release-Signed\YamlDotNet.csproj.CoreCompileInputs.cache

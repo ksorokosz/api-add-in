@@ -1,0 +1,6 @@
+D:\Programowanie\api-add-in\APIAddIn\YamlDotNet\bin\Release-UnitySubset-v35\YamlDotNet.dll
+D:\Programowanie\api-add-in\APIAddIn\YamlDotNet\bin\Release-UnitySubset-v35\YamlDotNet.pdb
+D:\Programowanie\api-add-in\APIAddIn\YamlDotNet\bin\Release-UnitySubset-v35\YamlDotNet.xml
+D:\Programowanie\api-add-in\APIAddIn\YamlDotNet\obj\Release-UnitySubset-v35\YamlDotNet.csproj.CoreCompileInputs.cache
+D:\Programowanie\api-add-in\APIAddIn\YamlDotNet\obj\Release-UnitySubset-v35\YamlDotNet.dll
+D:\Programowanie\api-add-in\APIAddIn\YamlDotNet\obj\Release-UnitySubset-v35\YamlDotNet.pdb

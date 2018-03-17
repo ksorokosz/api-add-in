@@ -39,7 +39,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Interop.EA">
-      <HintPath>..\..\..\..\..\..\Program Files (x86)\Sparx Systems\EA Trial\Interop.EA.dll</HintPath>
+      <HintPath>C:\Program Files (x86)\Sparx Systems\EA Trial\Interop.EA.dll</HintPath>
       <EmbedInteropTypes>True</EmbedInteropTypes>
     </Reference>
     <Reference Include="Moq">
@@ -52,6 +52,12 @@
     <Reference Include="Newtonsoft.Json.Schema, Version=2.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\packages\Newtonsoft.Json.Schema.2.0.2\lib\net45\Newtonsoft.Json.Schema.dll</HintPath>
+    </Reference>
+    <Reference Include="SparxSystems.Repository">
+      <HintPath>C:\Program Files (x86)\Sparx Systems\EA Trial\SparxSystems.Repository.dll</HintPath>
+    </Reference>
+    <Reference Include="SVGExport">
+      <HintPath>C:\Program Files (x86)\Siemens\EA SVG Export\SVGExport.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Web.Services" />

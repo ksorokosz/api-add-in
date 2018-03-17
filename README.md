@@ -24,11 +24,18 @@ Videos introducing this functionality.
 - Start EA.
 - You should see the extension menus in Extensions-API MDG.
   -   The extensions are context sensitive
-
+  
+  https://www.sparxsystems.com/enterprise_architect_user_guide/9.3/automation/deployingaddins.html
+  
 # Using this add in
 
  - [Use](./Using.md)
 
+ To export model into RAML you have to do following things:
+ - set object diagram's stereotype to APIDiagram (warning: case sensitive) otherwise it won't work
+ - classify object on the diagram as API otherwise it won't work (warning: case sensitive)
+ 
+ Samples may be found in Sample directory
 
 
 # Thanks

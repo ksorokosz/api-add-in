@@ -1,0 +1,2 @@
+D:\Programowanie\api-add-in\APIAddIn\UnitTestProject1\obj\Release\UnitTestProject.csprojResolveAssemblyReference.cache
+D:\Programowanie\api-add-in\APIAddIn\UnitTestProject1\obj\Release\UnitTestProject.csproj.CoreCompileInputs.cache
